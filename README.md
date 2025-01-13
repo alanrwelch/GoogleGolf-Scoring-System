@@ -1,5 +1,5 @@
 # GoogleGolf-Scoring-System
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/201446158@N02/54259105499/in/dateposted-public/" title="GoogleGolf Scoring System Logo"><img src="https://live.staticflickr.com/65535/54259105499_43c986c7ea_n.jpg" width="320" height="320" alt="GoogleGolf Scoring System Logo"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/201446158@N02/54259105499/in/dateposted-public/" title="GoogleGolf Scoring System Logo"><img src="https://live.staticflickr.com/65535/54259105499_43c986c7ea_n.jpg" width="320" height="320" alt="GoogleGolf Scoring System Logo"/>
 
 A DIY Group Golf Group Scoring System comprised of web app front end and sheets/scripts to determine results that are automatically emailed.
 
