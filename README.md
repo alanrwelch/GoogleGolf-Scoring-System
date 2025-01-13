@@ -1,7 +1,7 @@
 # GoogleGolf-Scoring-System
 <img src="https://live.staticflickr.com/65535/54259105499_43c986c7ea_n.jpg" width="200" height="auto" alt="GoogleGolf Scoring System Logo"/>
 
-A DIY Group Golf Group Scoring System comprised of web app front end and sheets/scripts to determine results that are automatically emailed.
+A DIY Group Golf Group Scoring System comprised of: a web app "front-end" and sheets/scripts "back-end" to determine results that are then automatically emailed.
 
 See this Google Slides for Overview -  https://docs.google.com/presentation/d/1OFxCkHToD8Xv5ndpid2VGXrdgu85IuHQ4WKWKOxWPaI/edit?usp=sharing
 
