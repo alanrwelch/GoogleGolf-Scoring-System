@@ -3,7 +3,7 @@ A DIY Group Golf Group Scoring System comprised of web app front end and sheets/
 
 See this Google Slides for Overview -  https://docs.google.com/presentation/d/1OFxCkHToD8Xv5ndpid2VGXrdgu85IuHQ4WKWKOxWPaI/edit?usp=sharing
 
-Hope to have the files out for distro soon.  Asking $20 for them -- and will provide lots of setup info and some limited supprt for that.
+Hope to have the files out for distro soon.  $20 for the system -- and will provide lots of setup info and some limited supprt for that.
 
 Contact me if interested -- Alan Welch  welch_misc@yahoo.com
 
