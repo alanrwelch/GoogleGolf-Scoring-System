@@ -12,8 +12,8 @@ While easy to set up/use and I provide decent guidance, users should have some o
 - basic html.
 - basic system admin, and
 - very basic programming.
-
-  
+<br>
+<br>
 Hope to have the files out for distro soon.  Only $20 for the system -- and will provide lots of setup/use info and some limited support for that.
 
 Contact me if interested -- Alan Welch  welch_misc@yahoo.com
