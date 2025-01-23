@@ -3,7 +3,11 @@
 
 A DIY Group Golf Group Scoring System comprised of: a web app "front-end" and sheets/scripts "back-end" to determine results that are then automatically emailed.
 
-See this Google Slides for Overview -  https://docs.google.com/presentation/d/1OFxCkHToD8Xv5ndpid2VGXrdgu85IuHQ4WKWKOxWPaI/edit?usp=sharing
+See this Google Slides for Overview -  [https://docs.google.com/presentation/d/1OFxCkHToD8Xv5ndpid2VGXrdgu85IuHQ4WKWKOxWPaI/edit?usp=sharing](https://docs.google.com/presentation/d/1RUXgG47u2fAuhmggllMSRYG5KicEE4Jy0A2srFFHa5M/edit#slide=id.g3232303c973_0_18)
+
+See YouTube Videos:
+https://youtu.be/8a5ZmeATB5U
+https://youtube.com/shorts/3ZilDe3QaCY?si=cf_K8XMWH6CkpzVX
 
 Given they are Google App files (web app, sheets, and documentation), upon purchase I'll provide "viewer only" access to a Google Drive directory.  Users will then need to make copies for their own Google Drive and then: 1) edit the file links each of the files' scripts (so they can work together), and then 2) deploy the web app.  Very easy!  Plus, you can taior it with your own golf group logo by just replacing an html link.
 
